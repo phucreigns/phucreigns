@@ -1,5 +1,7 @@
 ## 🌟 Welcome to My GitHub!
 
+## <marquee behavior="alternate">🚀 Hello, welcome to My GitHub! 🚀</marquee>
+
 <!--
 **phucreigns/phucreigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
