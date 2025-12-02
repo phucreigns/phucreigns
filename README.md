@@ -1,6 +1,6 @@
 ## <p align="center"> Hello 👋, Welcome to My GitHub! </p>
 
-## <p align="center"> I'm Software Engineer 🧑🏻‍💻 and Creative Problem Solver 🌟 </p>
+## <p align="center"> 🧑🏻‍💻 I'm Software Engineer and Creative Problem Solver 🌟 </p>
 
 
 <!--
